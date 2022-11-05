@@ -1,0 +1,8 @@
+schema: '2.0'
+stages:
+  test:
+    cmd: python test.py
+    outs:
+    - path: out.json
+      md5: 356d9a0ba3b0bb121a62453d25c76ade
+      size: 21
